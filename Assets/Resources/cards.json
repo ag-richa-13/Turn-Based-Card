@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Shield Bearer",
+    "cost": 2,
+    "power": 3,
+    "ability": { "type": "GainPoints", "value": 2 }
+  },
+  {
+    "id": 2,
+    "name": "Swift Raider",
+    "cost": 1,
+    "power": 2,
+    "ability": { "type": "StealPoints", "value": 1 }
+  },
+  {
+    "id": 3,
+    "name": "Heavy Smasher",
+    "cost": 3,
+    "power": 5,
+    "ability": { "type": "DoublePower", "value": 2 }
+  },
+  {
+    "id": 4,
+    "name": "Sage",
+    "cost": 1,
+    "power": 1,
+    "ability": { "type": "DrawExtraCard", "value": 1 }
+  },
+  {
+    "id": 5,
+    "name": "Trickster",
+    "cost": 2,
+    "power": 2,
+    "ability": { "type": "DiscardOpponentRandomCard", "value": 1 }
+  },
+  {
+    "id": 6,
+    "name": "Archer",
+    "cost": 1,
+    "power": 2,
+    "ability": { "type": "GainPoints", "value": 1 }
+  },
+  {
+    "id": 7,
+    "name": "Saboteur",
+    "cost": 2,
+    "power": 1,
+    "ability": { "type": "DestroyOpponentCardInPlay", "value": 1 }
+  },
+  {
+    "id": 8,
+    "name": "Giant",
+    "cost": 4,
+    "power": 6,
+    "ability": { "type": "GainPoints", "value": 3 }
+  },
+  {
+    "id": 9,
+    "name": "Scout",
+    "cost": 1,
+    "power": 1,
+    "ability": { "type": "DrawExtraCard", "value": 2 }
+  },
+  {
+    "id": 10,
+    "name": "Mage",
+    "cost": 2,
+    "power": 2,
+    "ability": { "type": "GainPoints", "value": 2 }
+  },
+  {
+    "id": 11,
+    "name": "Bandit",
+    "cost": 2,
+    "power": 2,
+    "ability": { "type": "StealPoints", "value": 2 }
+  },
+  {
+    "id": 12,
+    "name": "Echo",
+    "cost": 3,
+    "power": 3,
+    "ability": { "type": "DoublePower", "value": 2 }
+  }
+]
